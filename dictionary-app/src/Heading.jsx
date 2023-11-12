@@ -1,4 +1,5 @@
-import React, { useContext, useRef } from "react";
+/* eslint-disable react/prop-types */
+import { useContext, useRef } from "react";
 import play from "./assets/icon-play.svg";
 import { ThemeContext } from "./Contexttheme";
 import FontContext from "./FontContext";
